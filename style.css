@@ -1,0 +1,39 @@
+#mainHeader {
+	position: fixed;
+	top:0px;
+	left:0px;
+	padding:10px;
+	margin:0px;
+	width:100%;
+	background-color: lightgrey;
+}
+
+p{
+	margin: 0px;
+	padding: 10px;
+
+}
+
+h2.headerMargin{
+	margin-top:67px;
+}
+
+div.userForm{
+	margin: 0px;
+	padding: 10px;
+
+}
+
+div.container{
+	margin: 10px;
+	border: 2px solid black;
+	width: auto;
+}
+
+h1, h2{
+	margin: 10px;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
